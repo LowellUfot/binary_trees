@@ -1,5 +1,8 @@
 /* ignore binary_tree_print.c*/
 /binary_tree_print.c
 
-/* ignore 0-main.c */
+/* ignore main.c files */
 /0-main.c
+/0-node
+/1-main.c
+/1-left
